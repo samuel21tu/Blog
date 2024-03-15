@@ -35,7 +35,6 @@
     font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
     background: #000000;
     height: 8vh;
-    border-bottom: #fff;
   }
   
   main {
@@ -121,7 +120,22 @@
   }
   .noticia{
   padding: 5vw;
+  margin-bottom: 40px;
+}
+.noticia{
+  padding-top: 40px;
 }
   .container{
     padding: 3vw;
+    margin-bottom: 40px;
   }
+.footer{
+  clear: both;
+  background-color: #000000;
+  padding: 15px;
+  margin-top: 0cqmin;
+
+}
+.footer p{
+  text-align: center;
+}
